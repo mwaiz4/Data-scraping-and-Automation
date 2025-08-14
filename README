@@ -1,0 +1,5 @@
+I made this repository to track my progress learning data scraping and automation. I am using the Zameen.com website as a test scraping website. BeautifulSoupZameenScraping.py is the
+basic data scraping script that can be written. ZameendatascrapingV2 is one step up and does a little more but still pretty basic, It uses beautifulsoup to scrape Zameen.com, looks for 
+cards in selected category and fetches price, location, bedrooms, bathrooms etc for each card, pushes the data onto a text file in an organized manner.
+Limitations:Only scrapes one page at a time, uses text format to store data, Adds some extra listings with only price
+I will make improvements whenever I get time, for now I'm learning selenium and focusing on uni
